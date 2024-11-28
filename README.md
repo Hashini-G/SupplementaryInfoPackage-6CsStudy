@@ -4,7 +4,7 @@
 
 This is the supplementary information package of the ACM Transactions on Software Engineering and Methodology paper titled "A Theory of the Role of Empathy in Software Engineering" authored by Hashini Gunatilake, John Grundy, Rashina Hoda, and Ingo Mueller.
 
-The study employed a qualitative approach, using Socio-Technical Grounded Theory for data analysis and theory development.
+The study employed a qualitative approach, using Socio-Technical Grounded Theory for data analysis and theory development. We developed a comprehensive theory of empathy in software engineering, framed by the 6Cs model. Our findings address the context, conditions, causes, and consequences of empathy, as well as its absence. We also identified strategies (contingencies) for enhancing empathy and explored the relationships (covariances) between these categories.
 
 This repository contains,
   - Pre Interview Questionnaire
